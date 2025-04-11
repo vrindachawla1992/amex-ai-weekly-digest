@@ -1,0 +1,11 @@
+aiohttp==3.9.3
+beautifulsoup4==4.12.3
+requests==2.31.0
+python-dotenv
+anthropic==0.19.2
+openai==1.12.0
+httpx==0.27.0
+pytest==8.0.2
+aioresponses==0.7.6
+pydantic==2.6.4
+sib-api-v3-sdk==7.6.0

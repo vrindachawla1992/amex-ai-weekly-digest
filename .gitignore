@@ -1,0 +1,32 @@
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Reports and local data
+reports/
+*.html
+
+# IDE and OS specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Reports directory
+reports/
+
+# Templates directory (optional, depending on your preference)
+templates/
